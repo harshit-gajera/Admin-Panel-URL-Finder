@@ -1,5 +1,5 @@
 # Admin-Panel-URL-Finder
-Easy &amp; Advanced Websites Admin Panel URL Finder Python Script. 
+Easy &amp; Advanced Website's Admin Panel URL Finder Python Script. 
 
 # User Guide
 -------------
